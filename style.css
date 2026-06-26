@@ -70,7 +70,9 @@ nav a:hover{
     font-size:1.5rem;
 }
 
-.hero button{
+
+.resume{
+    display:inline-block;
     margin-top:50px;
     width:150px;
     padding:12px 25px;
@@ -79,6 +81,12 @@ nav a:hover{
     cursor:pointer;
     background:#111;
     color:white;
+    text-decoration:none;
+    text-align:center;
+}
+
+.resume:hover{
+    opacity:0.8;
 }
 
 
